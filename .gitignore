@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+supabase/.temp/
+
+# Local working voice profiles (test data, not for distribution)
+profiles/
